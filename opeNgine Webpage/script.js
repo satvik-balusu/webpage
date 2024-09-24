@@ -1,3 +1,4 @@
+// script.js
 document.getElementById('aws-btn').addEventListener('click', function() {
     document.getElementById('service-list').classList.remove('hidden');
     document.getElementById('aws-services').classList.remove('hidden');
